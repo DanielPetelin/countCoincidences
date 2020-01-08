@@ -18,4 +18,4 @@ function countCoincidences(a, b) {
     };
 };
 
-console.log(countCoincidences(c, h));
+countCoincidences(c, h);
